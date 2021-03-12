@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d7029f16-5358-46fa-b7e0-64b35e906d22" name="Bitbuket" url="http://bitbucket.org/oxffffdr/mango/src/master/">
+        <fileTransfer host="bitbucket.org/oxffffdr/mango/src/master" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
